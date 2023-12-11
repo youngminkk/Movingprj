@@ -62,7 +62,7 @@ JavaScript와 jQuery를 사용하여 동적인 기능을 추가하였고, Java�
 
 ### 참조
 
-테이블 명세서: [[링크](https://docs.google.com/spreadsheets/d/e/2PACX-1vTyOfiAIveItVHxqsAJf57iTPeVjK1XzJ1M1DLB9PzJWFpPZnF6218H-CqwG0YQ084ifv-xO2JIlOBL/pubhtml?gid=2017311501&single=true)]{:target="_blank"} <br />
+테이블 명세서: [[링크](https://docs.google.com/spreadsheets/d/e/2PACX-1vTyOfiAIveItVHxqsAJf57iTPeVjK1XzJ1M1DLB9PzJWFpPZnF6218H-CqwG0YQ084ifv-xO2JIlOBL/pubhtml?gid=2017311501&single=true)] <br />
 기능 명세서: [[링크](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDitT3fnGcgKlNN_6w9P6_DFTe1uYruFfMVLWOMuHF3KXYVn_HJPAvOM8Z3euOKLNwvs0DQMps9OoG/pubhtml)] <br /> 
 스토리보드: [[링크](https://docs.google.com/presentation/d/e/2PACX-1vSotWbHPlb4ndRDk4paS4v-jP_EuF9yE0WkXl1W6OicESTed1gZA5acMqbBVLfxFq7Qrvphu5pwE1_P/pub?start=false&loop=false&delayms=3000)] <br />
 프로젝트 발표PPT[[링크](https://docs.google.com/presentation/d/e/2PACX-1vTZzHBOoarryGiTt22TAy6sORzfH3YWea5BXPo2-HuDTsweP6gVLa9quVYzJQYZGfh9fdCjAjbCqSOA/pub?start=false&loop=false&delayms=3000)] <br />
