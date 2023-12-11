@@ -53,9 +53,9 @@
 
 ### 참조
 
-테이블정의서 https://docs.google.com/spreadsheets/d/e/2PACX-1vTyOfiAIveItVHxqsAJf57iTPeVjK1XzJ1M1DLB9PzJWFpPZnF6218H-CqwG0YQ084ifv-xO2JIlOBL/pubhtml?gid=2017311501&single=true
-기능명세서 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDitT3fnGcgKlNN_6w9P6_DFTe1uYruFfMVLWOMuHF3KXYVn_HJPAvOM8Z3euOKLNwvs0DQMps9OoG/pubhtml
-스토리보드 https://docs.google.com/presentation/d/e/2PACX-1vSotWbHPlb4ndRDk4paS4v-jP_EuF9yE0WkXl1W6OicESTed1gZA5acMqbBVLfxFq7Qrvphu5pwE1_P/pub?start=false&loop=false&delayms=3000
-프로젝트 발표PPT https://docs.google.com/presentation/d/e/2PACX-1vTZzHBOoarryGiTt22TAy6sORzfH3YWea5BXPo2-HuDTsweP6gVLa9quVYzJQYZGfh9fdCjAjbCqSOA/pub?start=false&loop=false&delayms=3000
+테이블정의서 <br /> https://docs.google.com/spreadsheets/d/e/2PACX-1vTyOfiAIveItVHxqsAJf57iTPeVjK1XzJ1M1DLB9PzJWFpPZnF6218H-CqwG0YQ084ifv-xO2JIlOBL/pubhtml?gid=2017311501&single=true <br />
+기능명세서 <br /> https://docs.google.com/spreadsheets/d/e/2PACX-1vQDitT3fnGcgKlNN_6w9P6_DFTe1uYruFfMVLWOMuHF3KXYVn_HJPAvOM8Z3euOKLNwvs0DQMps9OoG/pubhtml <br />
+스토리보드 <br /> https://docs.google.com/presentation/d/e/2PACX-1vSotWbHPlb4ndRDk4paS4v-jP_EuF9yE0WkXl1W6OicESTed1gZA5acMqbBVLfxFq7Qrvphu5pwE1_P/pub?start=false&loop=false&delayms=3000 <br />
+프로젝트 <br /> 발표PPT https://docs.google.com/presentation/d/e/2PACX-1vTZzHBOoarryGiTt22TAy6sORzfH3YWea5BXPo2-HuDTsweP6gVLa9quVYzJQYZGfh9fdCjAjbCqSOA/pub?start=false&loop=false&delayms=3000 <br />
 PPT같은 경우 파워포인트에서 구글문서로 옮기는 과정에서 깨짐이 있을 수 있습니다.
 
